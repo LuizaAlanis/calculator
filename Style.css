@@ -5,7 +5,9 @@ body{
 #container{
     widows: 100%;
     height: 620px;
+    width: 100%;
     background-image: url(cherry.jpeg);
+    background-size: cover;
     margin: 20px auto;
 }
 #calculator{
